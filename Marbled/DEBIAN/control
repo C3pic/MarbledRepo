@@ -1,0 +1,8 @@
+Package: com.navidmx.marbled
+Name: Marbled
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A fun and unique take on 3D bubble icons
+Maintainer: Navid Mamoon <@navidmx>, Cole <@colethasian1>
+Author: navidmx, colethasian1
+Section: Tweaks
