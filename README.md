@@ -2,7 +2,7 @@
 Open Sourced Icons (Very Few)
 # Marbled
 
-<img src=''/>
+<img src='image-marbled.png'/>
 
 - This repository contains the source vectors for Marbled (.sketch) and 
 - I have included a folder filled with sample exports as well as a test .deb file made by Navid Mamoon
